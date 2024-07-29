@@ -35,6 +35,7 @@ ul {
 
 .pokemon_names {
     font-size: 200%;
+    
 }
 
 .pokemon_images {
@@ -77,5 +78,6 @@ ul {
 footer {
     padding-top: 150px;
     padding-left: 20px;
+    
 }
 
